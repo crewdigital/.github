@@ -1,5 +1,5 @@
-# Hi there 👋
-## We are Crew Digital, a Close-knit team advocating working remote
+# We are Crew Digital 👋
+## A Close-knit team advocating working remote
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
