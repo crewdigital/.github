@@ -1,7 +1,4 @@
-# Hi, we are Crew Digital
-
-
-Welcome to Crew Digital, a Software Development as a Service (SDaaS) business based in Sri Lanka. We specialize in providing custom software solutions to businesses of all sizes, helping them to streamline their operations and achieve their goals.
+# Welcome to Crew Digital, a Software Development as a Service (SDaaS) business based in Sri Lanka. We specialize in providing custom software solutions to businesses of all sizes, helping them to streamline their operations and achieve their goals.
 
 At Crew Digital, we pride ourselves on our technical expertise, our commitment to quality, and our customer-focused approach. Our team of skilled developers, designers, and project managers work closely with each client to understand their unique needs and deliver solutions that exceed their expectations.
 
