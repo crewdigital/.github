@@ -19,8 +19,6 @@ If you're looking for a reliable, experienced software development partner in Sr
 
 # Incubation Program at Crew Digital : Open to anyone with an idea
 
-Welcome to Crew Digital's Incubation page, where we offer support for startups and entrepreneurs to turn their innovative ideas into successful businesses.
-
 At Crew Digital, we believe in the power of innovation, and we are committed to supporting entrepreneurs and startups by providing them with the tools and resources they need to succeed. Our incubation program is designed to help startups and entrepreneurs navigate the challenges of launching a new business and achieve their goals.
 
 Here are some of the services we offer under our Incubation program:
