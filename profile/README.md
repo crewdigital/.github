@@ -1,4 +1,4 @@
-# Crew Digital — AI Product Engineering & Custom Software Development Company in Sri Lanka
+# Crew Digital — AI-powered Sri Lanka based software engineering
 
 **Transforming Ambitious Ideas into Intelligent Digital Products.**
 
